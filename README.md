@@ -14,7 +14,7 @@ A running list of best practices. All our programmers should read this and under
 1.  Use positioning sparingly. In general you over use position absolute.
 1.  If using useless markup to get a desired style, you’re doing it wrong. For example wrapping divs, centering divs.
 1.  Active, hover states at the end of component, followed by breakpoints at end of file please!
-1.  When using scss if you’re going more than 2 levels deep, question yourself. Think of the top level element class as a 1.  namespace, so things in it don’t need namespaces too.
+1.  When using scss if you’re going more than 2 levels deep, question yourself. Think of the top level element class as a namespace, so things in it don’t need namespaces too.
 1.  Never use background-images, use object-fit with src-set instead.
 1.  We care about Firefox, Chrome and Safari.
 1.  For class names use is-{state} and has-{feature} or not-{type}. Like is-active, is-opened, has-video, not-case-study, is-active.
