@@ -38,3 +38,5 @@ A running list of best practices. All our programmers should read this and under
 1.  Don’t do things rough with the expectation of coming back to it. Do it right the first time, think it through.
 1.  Add head() data for SEO as you build each pages. Sucks to do this at the end.
 1.  Learn how to spot red flags. Long file? Deep nested CSS? Watching a lot of things? Lots of specific break points? Committing to the store a lot?
+1.  Organize your windows into panels or editor and browser and dev tools.
+1.  Use Prettier along with the linting tools built into Stackhaus.
