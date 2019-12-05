@@ -23,6 +23,7 @@ A running list of best practices. All our programmers should read this and under
 1.  Use lodash! You’re not getting points for using map() and filter() in inventive ways!
 1.  Don’t fight the browser - scroll, events, URLs etc…
 1.  With Nuxt-Link or Router-Link use relative paths from the root (start with a /).
+1.  Use white spacing in your templates
 
 ## Important Concepts
 1.  You can write breakpoints without needing a media query, generally just use width and max-width. Good break points will really just be font-size and reducing columns perhaps.
