@@ -25,6 +25,7 @@ A running list of best practices. All our programmers should read this and under
 1.  With Nuxt-Link or Router-Link use relative paths from the root (start with a /).
 1.  Use white spacing in your templates
 1.  Switch is better than a lot of if-else conditions 
+1.  This is how you do forms: https://alligator.io/vuejs/vue-form-handling/
 
 ## Important Concepts
 1.  You can write breakpoints without needing a media query, generally just use width and max-width. Good break points will really just be font-size and reducing columns perhaps.
