@@ -26,6 +26,7 @@ A running list of best practices. All our programmers should read this and under
 1.  Use white spacing in your templates
 1.  Switch is better than a lot of if-else conditions 
 1.  This is how you do forms: https://alligator.io/vuejs/vue-form-handling/
+1.  100vh doesn't work great on mobile. See this for how to do it right: https://stackoverflow.com/questions/58886797/how-to-access-the-real-100vh-on-ios-in-css
 
 ## Important Concepts
 1.  You can write breakpoints without needing a media query, generally just use width and max-width. Good break points will really just be font-size and reducing columns perhaps.
