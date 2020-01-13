@@ -3,8 +3,7 @@ A running list of best practices. All our programmers should read this and under
 
 ## Basics
 1.  No resets
-1.  Call things what they are, semantically.
-1.  Name your component what the file name is, and give it a class that matches.
+1.  Call things what they are, semantically. Name your component what the file name is, and give it a class that matches.
 1.  Avoid use of element name selectors in CSS
 1.  In general avoid use of CSS pseudo elements like content, before, after. Except for list bullets or underlines.
 1.  No use of floats
