@@ -24,8 +24,8 @@ A running list of best practices. All our programmers should read this and under
 1.  Use white spacing in your templates
 1.  Order your CSS in the same order your markup is in. Top to bottom as coded.
 1.  Switch is better than a lot of if-else conditions 
-1.  (This is how you do forms in Vue)[https://alligator.io/vuejs/vue-form-handling/]
-1.  100vh doesn't work great on mobile. (See this for how to do it right)[https://stackoverflow.com/questions/58886797/how-to-access-the-real-100vh-on-ios-in-css]. 
+1.  [This is how you do forms in Vue](https://alligator.io/vuejs/vue-form-handling/)
+1.  100vh doesn't work great on mobile. [See this for how to do it right](https://stackoverflow.com/questions/58886797/how-to-access-the-real-100vh-on-ios-in-css). 
 
 ## Important Concepts
 1.  We care about Firefox, Chrome and Safari.
@@ -46,14 +46,13 @@ A running list of best practices. All our programmers should read this and under
 1.  Use Prettier along with the linting tools built into Stackhaus.
 
 ## Useful tools:
-1.  (Demystifing Nth-Child in CSS)[http://www.nealgrosskopf.com/tech/resources/80/]
-1.  (Flexy Boxes Playground)[https://the-echoplex.net/flexyboxes/]
-1.  (CSS Grid Generator)[https://cssgrid-generator.netlify.com/]
-1.  (16:9 calculator)[https://www.size43.com/16by9-aspect-ratio-calculator/]
-1.  (Clippy)[https://bennettfeely.com/clippy/]
-1.  (Facebook OG debugger)[https://developers.facebook.com/tools/debug/]
+1.  [Demystifing Nth-Child in CSS](http://www.nealgrosskopf.com/tech/resources/80/)
+1.  [Flexy Boxes Playground](https://the-echoplex.net/flexyboxes/)
+1.  [CSS Grid Generator](https://cssgrid-generator.netlify.com/)
+1.  [16:9 calculator](https://www.size43.com/16by9-aspect-ratio-calculator/)
+1.  [Clippy](https://bennettfeely.com/clippy/)
+1.  [Facebook OG debugger](https://developers.facebook.com/tools/debug/)
 
 ## Good reading:
-1.  (The introduction to Reactive Programming you've been missing)[https://gist.github.com/staltz/868e7e9bc2a7b8c1f754]
-1.  (You (Might) Don't Need jQuery)[https://github.com/nefe/You-Dont-Need-jQuery]
-1.  
+1.  [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+1.  [You (Might) Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
