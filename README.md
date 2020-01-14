@@ -15,7 +15,6 @@ A running list of best practices. All our programmers should read this and under
 1.  Active, hover states at the end of component, followed by breakpoints at end of file please!
 1.  When using scss if you’re going more than 2 levels deep, question yourself. Think of the top level element class as a namespace, so things in it don’t need namespaces too.
 1.  Never use background-images, use object-fit with src-set instead.
-1.  We care about Firefox, Chrome and Safari.
 1.  For class names use is-{state} and has-{feature} or not-{type}. Like is-active, is-opened, has-video, not-case-study, is-active.
 1.  Common element classes block, grid, panel, menu, overlay, meta, title, section, section-title
 1.  Margin top/bottom, padding left/right.
@@ -28,6 +27,7 @@ A running list of best practices. All our programmers should read this and under
 1.  100vh doesn't work great on mobile. See this for how to do it right: https://stackoverflow.com/questions/58886797/how-to-access-the-real-100vh-on-ios-in-css
 
 ## Important Concepts
+1.  We care about Firefox, Chrome and Safari.
 1.  You can write breakpoints without needing a media query, generally just use width and max-width. Good break points will really just be font-size and reducing columns perhaps.
 1.  Understand collapsable margins!
 1.  Understand intrinsic ratio sizing!
@@ -43,3 +43,16 @@ A running list of best practices. All our programmers should read this and under
 1.  Learn how to spot red flags. Long file? Deep nested CSS? Watching a lot of things? Lots of specific break points? Committing to the store a lot?
 1.  Organize your windows into panels or editor and browser and dev tools.
 1.  Use Prettier along with the linting tools built into Stackhaus.
+
+## Useful tools:
+1.  (Demystifing Nth-Child in CSS)[http://www.nealgrosskopf.com/tech/resources/80/]
+1.  (Flexy Boxes Playground)[https://the-echoplex.net/flexyboxes/]
+1.  (CSS Grid Generator)[https://cssgrid-generator.netlify.com/]
+1.  (16:9 calculator)[https://www.size43.com/16by9-aspect-ratio-calculator/]
+1.  (Clippy)[https://bennettfeely.com/clippy/]
+1.  (Facebook OG debugger)[https://developers.facebook.com/tools/debug/]
+
+## Good reading:
+1.  (The introduction to Reactive Programming you've been missing)[https://gist.github.com/staltz/868e7e9bc2a7b8c1f754]
+1.  (You (Might) Don't Need jQuery)[https://github.com/nefe/You-Dont-Need-jQuery]
+1.  
