@@ -31,7 +31,7 @@ A running list of best practices. All our programmers should read this and under
 ## Important Concepts
 1.  We care about Firefox, Chrome and Safari.
 1.  You can write breakpoints without needing a media query, generally just use width and max-width. Good break points will really just be font-size and reducing columns perhaps.
-1.  Understand collapsable margins!
+1.  Understand collapsible margins!
 1.  Understand intrinsic ratio sizing!
 1.  When to use wp-content, v-html, v-text
 1.  Clean up after yourself, don’t leave behind old code
