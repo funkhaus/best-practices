@@ -1,6 +1,8 @@
 # Funkhaus best practices
 A running list of best practices. All our programmers should read this and understand each item.
 
+This list formed the bais for a presentation at VueJS LA meetup on January 14, 2020 by Drew Baker. You can see the slides [here](https://docs.google.com/presentation/d/1xMqvylzoIwpEgwFEpXI8it_HGo7BUGrt8h65E0nvEQo/edit?usp=sharing).
+
 ## Basics
 1.  No resets
 1.  Be semantic - call things what they are. Name your component what the filename is, and give it a class that matches.
