@@ -32,7 +32,7 @@ This list formed the bais for a presentation at VueJS LA meetup on January 14, 2
 
 ## Important Concepts
 1.  We care about Firefox, Chrome and Safari.
-1.  You can write breakpoints without needing a media query, generally just use width and max-width. Good break points will really just be font-size and reducing columns perhaps.
+1.  You can write breakpoints without needing a media query generally. Often using width and max-width is enough. Good break points will really just be font-size and reducing columns perhaps.
 1.  Understand collapsible margins!
 1.  Understand intrinsic ratio sizing!
 1.  When to use wp-content, v-html, v-text
@@ -41,12 +41,12 @@ This list formed the bais for a presentation at VueJS LA meetup on January 14, 2
 ## Be better at:
 1.  Drew to show everyone how to build top-panel/bottom-panel style fixed sliding sites
 1.  Really think hard about what can be a component. Makes a site so hard if you don’t use components.
-1.  Know what components we have in Haus Components!
+1.  Know what components and tools.js we have in [fuxt](https://github.com/funkhaus/fuxt) and our [haus components](https://github.com/funkhaus/components)!
 1.  Don’t do things rough with the expectation of coming back to it. Do it right the first time, think it through.
 1.  Add head() data for SEO as you build each pages. Sucks to do this at the end.
 1.  Learn how to spot red flags. Long file? Deep nested CSS? Watching a lot of things? Lots of specific break points? Committing to the store a lot?
 1.  Organize your windows into panels or editor and browser and dev tools.
-1.  Use Prettier along with the linting tools built into Stackhaus.
+1.  Use Prettier along with the linting tools built into [fuxt](https://github.com/funkhaus/fuxt).
 
 ## Useful tools:
 1.  [Demystifing Nth-Child in CSS](http://www.nealgrosskopf.com/tech/resources/80/)
