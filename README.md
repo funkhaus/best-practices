@@ -32,6 +32,7 @@ This list formed the bais for a presentation at VueJS LA meetup on January 14, 2
 1.  Don't use icon fonts, use SVGs. SVGO is a good tool for optimizing SVGs.
     1.  Be sure to include the `viewBox` attribute.
 1.  This is [a good clean sample](https://github.com/funkhaus/factory/blob/master/src/components/WorkBlock/BlockWork.vue) component to study.
+1.  If your component accesses $store or $route directly, you're doing it wrong. Use props and events instead. 
 
 ## Important Concepts
 1.  We care about Chrome, Safari and Firefox in that order.
@@ -48,7 +49,7 @@ This list formed the bais for a presentation at VueJS LA meetup on January 14, 2
 1.  Don’t do things rough with the expectation of coming back to it. Do it right the first time, think it through.
 1.  Add head() data for SEO as you build each pages. Sucks to do this at the end.
 1.  Learn how to spot red flags. Long file? Deep nested CSS? Watching a lot of things? Lots of specific break points? Committing to the store a lot?
-1.  Organize your windows into panels or editor and browser and dev tools.
+1.  Organize your windows into panels of editor and browser and dev tools.
 1.  Use Prettier along with the linting tools built into [fuxt](https://github.com/funkhaus/fuxt).
 
 ## Useful tools:
