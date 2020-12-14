@@ -65,3 +65,4 @@ This list formed the bais for a presentation at VueJS LA meetup on January 14, 2
 1.  [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 1.  [You (Might) Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
 1.  [A Smashing Guide To The World Of Search Engine Optimization](https://www.smashingmagazine.com/smashing-guide-search-engine-optimization/)
+1.  [Good overview of ES6 destructuring](https://2ality.com/2015/01/es6-destructuring.html)
