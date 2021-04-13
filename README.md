@@ -67,3 +67,4 @@ This list formed the bais for a presentation at VueJS LA meetup on January 14, 2
 1.  [A Smashing Guide To The World Of Search Engine Optimization](https://www.smashingmagazine.com/smashing-guide-search-engine-optimization/)
 1.  [Good overview of ES6 destructuring](https://2ality.com/2015/01/es6-destructuring.html)
 1.  [A good book on how to write good CSS](https://maintainablecss.com/)
+1.  [Use console.log() like a pro](https://markodenic.com/use-console-log-like-a-pro/)
