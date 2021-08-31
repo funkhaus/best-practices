@@ -68,3 +68,12 @@ This list formed the bais for a presentation at VueJS LA meetup on January 14, 2
 1.  [Good overview of ES6 destructuring](https://2ality.com/2015/01/es6-destructuring.html)
 1.  [A good book on how to write good CSS](https://maintainablecss.com/)
 1.  [Use console.log() like a pro](https://markodenic.com/use-console-log-like-a-pro/)
+
+## Books
+1. https://github.com/thejsway/thejsway
+2. https://www.oreilly.com/library/view/eloquent-javascript-3rd/9781492071198/
+3. https://www.modernjsbyexample.net/
+4. https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+5. https://martinfowler.com/articles/refactoring-2nd-ed.html
+6. https://exploringjs.com/es6/index.html
+7. https://leanpub.com/javascriptallongesix
