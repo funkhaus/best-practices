@@ -61,6 +61,7 @@ This list formed the bais for a presentation at VueJS LA meetup on January 14, 2
 1.  [Facebook OG debugger](https://developers.facebook.com/tools/debug/)
 
 ## Good reading:
+1.  [CSS Guide Lines - Best CSS guide there is](https://cssguidelin.es)
 1.  [Vue Style Guide](https://vuejs.org/v2/style-guide/)
 1.  [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 1.  [You (Might) Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery)
